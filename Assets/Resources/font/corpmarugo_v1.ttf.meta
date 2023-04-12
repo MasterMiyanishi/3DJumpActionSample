@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b09b16288f28fe74a97dadd8663c7091
+timeCreated: 1544564392
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Corporate Logo Maru
+  fontNames:
+  - Corporate Logo Maru
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 27811acf4e8867b429cab5730bcdd585
+timeCreated: 1544564388
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Senobi Gothic
+  fontNames:
+  - Senobi Gothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

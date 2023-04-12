@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9dd9cd8a9eefa6a42ad54d750802d6c9
+timeCreated: 1544563617
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 03SmartFontUI
+  fontNames:
+  - 03SmartFontUI
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

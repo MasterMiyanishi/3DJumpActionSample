@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 914cf5bcff279db448d60f615519b69f
+timeCreated: 1544564389
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mamelon
+  fontNames:
+  - Mamelon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
